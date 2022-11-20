@@ -1,2 +1,2 @@
 # online-store
-online-brand-store.netlify.app
+https://online-brand-store.netlify.app/
